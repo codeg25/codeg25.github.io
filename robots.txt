@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow:
-Sitemap: http://project202092.tilda.ws/sitemap.xml
-Host: project202092.tilda.ws
